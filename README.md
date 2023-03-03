@@ -3,11 +3,10 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [this profile](this profile)
+- 👨‍💻 All of my projects are available at [https://github.com/skinnzysan?tab=repositories](https://github.com/skinnzysan?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/skinnzysan#2605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="skinnzysan#2605" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
